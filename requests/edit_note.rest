@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/notes/66d14db6f3bdbead98c1fd26
+Content-Type: application/json
+
+{
+    "content": "HTML is not a programming language!"
+}
